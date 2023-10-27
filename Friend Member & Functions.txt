@@ -1,0 +1,21 @@
+// Friend Members & Functions
+
+class class_Name{
+	friend class_Name secondary_class_Name;
+
+
+}
+
+class_Name secondary_class_Name{
+}
+
+
+/*
+Properties of friend funtions:
+1. Not in the scope of class.
+2. Since it is not in the scope of class , it cannot be called from the object of that class.
+3. Can be invoked without the help of the objects.
+4. Usually contains the objects as arguments.
+5. Can be declared inside public or private section of class.
+6. It cannot access members by its name.
+*/

@@ -1,0 +1,15 @@
+//Static Variables  & Functions
+
+class Class_Name{
+	//static members
+	int static var_name;
+
+	//static functions
+	// It is only used to access static variables.
+	static int function_name(){
+{
+}
+
+
+//Initialize value here
+class Class_Name :: var_name;

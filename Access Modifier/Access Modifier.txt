@@ -1,0 +1,9 @@
+Access Modifiers:
+Inheritance
+				Public		Private		Protected
+ - Public			Publi.		Private.	Protected.
+	Accessible.
+ - Private			Not Inherited.	Not Inherited.	Not Inherited.
+	Not accessible.
+ - Protected			Protected.	Private.	Protected.
+	Can be accessible.
